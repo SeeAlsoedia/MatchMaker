@@ -1,0 +1,12 @@
+{
+  "name": "MatchMaker",
+  "version": "0.0.1",
+  "description": "Find best relevance into wikipedia pages.",
+  "main": "matchmaker.js",
+  "author": "Rodrigo Rocha",
+  "dependencies": {
+	"mongodb": "latest",
+	"mongoose": "latest",
+	"mongoosastic" : "latest"
+  }
+}
